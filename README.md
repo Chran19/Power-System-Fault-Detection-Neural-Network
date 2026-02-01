@@ -1,8 +1,11 @@
 # Power System Fault Detection Using Neural Networks
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Chran19/Power-System-Fault-Detection-Neural-Network)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Neural%20Network-orange.svg)](https://numpy.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-87.25%25-green.svg)](#results)
+
+**🔗 Repository:** [https://github.com/Chran19/Power-System-Fault-Detection-Neural-Network](https://github.com/Chran19/Power-System-Fault-Detection-Neural-Network)
 
 ## 📋 Project Overview
 
